@@ -6,4 +6,4 @@ Hi, this repo is for lab 1 - exercse #2.
 
 - Updated README.md and created new branch
 
-Remote change made by Millard
+Local change made by Millard
